@@ -1,3 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 commit - test
 new branch line
+=======
+123
+456
+789.
+>>>>>>> 5c05c7610241b623ce49a2acfa727b186c29b1cf
